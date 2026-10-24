@@ -1,0 +1,23 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+# Keep google-services.json out of public repos if you prefer; the app also works without it.
+# app/google-services.json
+
+# Firebase configuration
+app/google-services.json
+
+# Kotlin generated data
+.kotlin/
+
+# Generated release files
+app/release/
